@@ -1,0 +1,26 @@
+﻿               		Velocity Car Rental
+
+
+
+Our team:
+Dimitar Yanakiev  - HTML5 developer
+Angel Friedirich - CSS3 developer
+Yan Krilov - Designer 
+Tatyana Papuchkieva - Designer
+Yanislav Todorov - Scrum Trainer
+
+About us:
+offers reliable and affordable car rentals, making it easy for you to explore. With a diverse fleet and a commitment to excellent customer service, we're your trusted partner for every journey.
+
+
+Code editors and collaborative services used:
+
+
+
+
+Used programs for creating the presentation and documentation:
+
+
+
+
+
